@@ -1,6 +1,6 @@
 # AirPilot
 
-This template should help get you started developing with Vue 3 in Vite.
+Application VueJS qui exploite l'API OpenSky REST API
 
 ## Recommended IDE Setup
 
